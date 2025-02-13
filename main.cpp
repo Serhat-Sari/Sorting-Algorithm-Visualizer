@@ -3,14 +3,6 @@
 #include <time.h>
 #include <iostream>
 
-/* TODO 
-
-1-) Implement rest of the sorting algorithms -- DONE --
-2-) Instead of asking from the command line, take inputs from the window(how??)
-3-) Use OOP ( reading design patterns rn, will do this later.)
-
-*/
-
 using namespace std;
 using namespace sf;
 
